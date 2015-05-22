@@ -1,3 +1,3 @@
 # SimpleCV
 simplecv python computer vision
-mkay?
+still testing
